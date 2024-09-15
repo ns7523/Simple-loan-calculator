@@ -36,8 +36,18 @@ The design follows a modern, minimalistic approach with soft colors and a clean 
 - **Text Color**: `#1d1d1f` (for the content text).
 - **Card Background**: `#ffffff` (for the calculator container).
 
+<table>
+<tr>
+   <th>Output</th>
+</tr>
+<tr>
+   <td><img src="https://github.com/user-attachments/assets/1435334b-0fd8-4cf1-9c6e-018387e60e60" height=550px ></td>
+</tr>
+</table>
+
 ## Usage
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/ns7523/Simple-loan-calculator.git
+
